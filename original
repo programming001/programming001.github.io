@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href='https://fonts.googleapis.com/css?family=Verdana:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/3.18.1/build/cssnormalize/cssnormalize.css" type="text/css">
+    
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    
+     <style>
+    img {
+      margin-right: 5px;
+      vertical-align: middle;
+      border: 1px solid #ccc;
+      text-align: middle;
+    }
+     </style>   
+
+    <title>STAR WARS</title>
+  </head>
+  
+  
+  <body> 
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Star Wars</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="original.html">Original Triology</a></li>
+            <li><a href="prequel.html">Prequel Triology</a></li>
+            <li><a href ="sequel.html">Sequel Triology</a></li>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+<h2>Original Triology</h2>
+  <p>
+  <br>The Original Triology (1977-1983) follows Luke Skywalker in his journey to take down the evil Galactic Empire and restore freedom to the Galaxy. The primary </br>
+  <br>antagonist for the first two films is Darth Vader, however the introduction of the Emperor shows Vader's status as antihero. The film events occur approximately</br>
+  <br>20 years after the fall of the Old Republic in the Prequel Triology</br>
+  </p>
+
+  <p>
+      <ul>
+          <ul> A New Hope (1977)</ul>
+          <img src ="http://www.popsci.com/sites/popsci.com/files/styles/medium_1x_/public/images/2015/12/star-wars-new-hope-iv-poster_c217085b.jpeg?itok=drKJKZ_2" />
+          <ul> The Expire Strikes Back (1981)</ul>
+          <img src ="https://www.movieposter.com/posters/archive/main/4/A70-2036" />
+          <ul> Return of the Jedi (1983)</ul>
+          <img src ="https://www.movieposter.com/posters/archive/main/111/MPW-55925" />
+      </ul> 
+  </p>
+  
+ <footer class="footer">
+      <div class="container">
+        <p class ="text-muted">Victor Enriquez</p>
+        <p class="text-muted"><a href="http://csusb.edu">California State University, San Bernardino</a></p>
+        <p class="text-muted"><a href="https://github.com/pjfwatson/CSUSBWatson/wiki/CSE-322-Schedule">CSE-322: Web Page Programming </a></p>
+      </div>
+    </footer>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    
+  </body>
+</html>
