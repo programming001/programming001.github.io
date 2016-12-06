@@ -1,0 +1,41 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    
+    margin:0;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url('http://wallup.net/wp-content/uploads/2015/12/308373-Star_Wars-R2-D2.jpg');
+    font-family: 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    padding-top:35px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    border-bottom: solid 1px black;
+    font-family: sans-serif;
+}
+
+.container .text-muted {
+    margin: 0 auto;
+    background-color: #ccc;
+    margin-right: 30em;
+    margin-left: 30em;
+    text-align: center;
+    color: white;
+    bottom: 0;
+}
+
